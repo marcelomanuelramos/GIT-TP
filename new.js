@@ -1,1 +1,2 @@
-const error = "main here"
+let error = 100;
+
